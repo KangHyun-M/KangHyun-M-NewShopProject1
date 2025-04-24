@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BackApplication<back_>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.back.BackApplication",
+      "projectName": "back_",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
